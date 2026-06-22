@@ -2,6 +2,9 @@ package conta_bancaria;
 
 import java.util.Scanner;
 
+import conta_bancaria.model.Conta;
+import conta_bancaria.util.Cores;
+
 public class Menu {
 	
 	public static Scanner leia = new Scanner(System.in);
@@ -9,10 +12,41 @@ public class Menu {
 	public static void main(String[] args) {
 
 			int opcao;
+			
+			/* Instanciar Obejtos da Classe Conta */
+			
+			Conta c1 = new Conta(1, 123, 1, "Isabella", 200000.00f);
+			c1.visualizar();
+
+			Conta c2 = new Conta(2, 123, 2, "Thiago", 100000.00f);
+			c2.visualizar();
+			
+			/* Alteração do Saldo*/                     
+			c1.setSaldo(300000.00f);
+			c1.visualizar();
+			
+			/**
+			 * Saque na conta C2
+			 * if ternário
+			 * 
+			 * condição ? ação se for verdadeiro : ação se for falso
+			 */
+			System.out.println("\nSacar R$ 1.000,00 da conta C2: " + (c2.sacar(1000.00f) ? 
+					"Saque efetuado com sucesso!" : "Saldo Insuficiente")); 
+			
+			System.out.println("\nSacar R$ 300.000,00 da conta C2: " + (c2.sacar(300000.00f) ? 
+					"Saque efetuado com sucesso!" : "Saldo Insuficiente"));
+			
+			c2.visualizar();
+			
+			/* Depósito na Conta c2*/
+			c2.depositar(50000.00f);
+			c2.visualizar();
 
 			while (true) {
-
-				System.out.println("*****************************************************");
+				
+				System.out.println(Cores.TEXT_WHITE_BOLD + Cores.ANSI_BLUE_BACKGROUND
+						+ "*****************************************************");
 				System.out.println("                                                     ");
 				System.out.println("      ♻           BANCO NACIONAL             ♻     ");
 				System.out.println("                                                     ");
@@ -30,12 +64,13 @@ public class Menu {
 				System.out.println("                                                     ");
 				System.out.println("*****************************************************");
 				System.out.println("Entre com a opção desejada:                          ");
-				System.out.println("                                                     ");
+				System.out.println("                                                     " + Cores.TEXT_RESET);
 
 				opcao = leia.nextInt();
 
 				if (opcao == 0) {
-					System.out.println( "\nBanco Nacional - o banco do guarda-chuva.");
+					System.out.println(Cores.TEXT_WHITE_BOLD + Cores.ANSI_BLUE_BACKGROUND + 
+							"\nBanco Nacional - o banco do guarda-chuva.");
 					sobre();
 					leia.close();
 					System.exit(0);
@@ -43,46 +78,47 @@ public class Menu {
 
 				switch (opcao) {
 				case 1:
-					System.out.println("Criar Conta\n\n");
+					System.out.println(Cores.TEXT_WHITE_BOLD + "Criar Conta\n\n");
 
 					break;
 				case 2:
-					System.out.println("Listar todas as Contas\n\n");
+					System.out.println(Cores.TEXT_WHITE_BOLD + "Listar todas as Contas\n\n");
 
 					break;
 				case 3:
-					System.out.println("Consultar dados da Conta - por número\n\n");
+					System.out.println(Cores.TEXT_WHITE_BOLD + "Consultar dados da Conta - por número\n\n");
 
 					break;
 				case 4:
-					System.out.println("Atualizar dados da Conta\n\n");
+					System.out.println(Cores.TEXT_WHITE_BOLD + "Atualizar dados da Conta\n\n");
 
 					break;
 				case 5:
-					System.out.println("Apagar a Conta\n\n");
+					System.out.println(Cores.TEXT_WHITE_BOLD + "Apagar a Conta\n\n");
 
 					break;
 				case 6:
-					System.out.println("Saque\n\n");
+					System.out.println(Cores.TEXT_WHITE_BOLD + "Saque\n\n");
 
 					break;
 				case 7:
-					System.out.println("Depósito\n\n");
+					System.out.println(Cores.TEXT_WHITE_BOLD + "Depósito\n\n");
 
 					break;
 				case 8:
-					System.out.println("Transferência entre Contas\n\n");
+					System.out.println(Cores.TEXT_WHITE_BOLD + "Transferência entre Contas\n\n");
 
 					break;
 				default:
-					System.out.println("\nOpção Inválida!\n");
+					System.out.println(Cores.TEXT_RED_BOLD + "\nOpção Inválida!\n");
 					break;
 				}
 			}
 		}
 
 		public static void sobre() {
-			System.out.println("\n*********************************************************");
+			System.out.println(Cores.TEXT_WHITE_BOLD + Cores.ANSI_BLUE_BACKGROUND + 
+					"\n*********************************************************");
 			System.out.println("Projeto Desenvolvido por: João Pedro Duo ");
 			System.out.println("LinkedIn - linkedin.com/in/joaopedroduo ");
 			System.out.println("github.com/Joao-Pedro-Duo");
