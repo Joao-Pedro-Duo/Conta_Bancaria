@@ -1,4 +1,4 @@
-# 	  Projeto Conta Bancária - Java   			![Simbolo bancario Imagens – Download Grátis no Magnific (antes Freepik)](https://img.magnific.com/vetores-premium/icone-do-edificio-do-banco_1301270-12227.jpg?semt=ais_hybrid&w=220&q=70)     
+# 	  		Projeto Conta Bancária - Java   				![Simbolo bancario Imagens – Download Grátis no Magnific (antes Freepik)](https://img.magnific.com/vetores-premium/icone-do-edificio-do-banco_1301270-12227.jpg?semt=ais_hybrid&w=220&q=70)     
 
 &nbsp;
 
@@ -23,14 +23,6 @@
 
 &nbsp;
 
-&nbsp;
-
-</div>
-
-&nbsp;
-
-&nbsp;
-
 ------
 
 &nbsp;
@@ -40,14 +32,6 @@
 &nbsp;
 
 ## 1. Descrição
-
-&nbsp;
-
-<br />
-
-&nbsp;
-
-&nbsp;
 
 O **Projeto Conta Bancária** é um sistema de gestão projetado para simular e administrar operações financeiras relacionadas a contas bancárias. Oferece funcionalidades como **cadastro**, **consulta**, **atualização** e **remoção** de contas, além de transações como depósitos, saques e transferências.
 
@@ -84,12 +68,6 @@ Além de servir como um simulador funcional, o projeto oferece uma base prática
 
 ## 2. Funcionalidades do Projeto
 
-&nbsp;
-
-<br />
-
-&nbsp;
-
 1\. **Criar Conta:** Cria uma nova conta bancária especificando nome do titular, número da agência, saldo inicial e propriedades específicas conforme o tipo da conta. O número da conta é gerado automaticamente.
 
 2\. **Listar todas as Contas:** Lista todas as contas cadastradas no sistema.
@@ -115,12 +93,6 @@ Além de servir como um simulador funcional, o projeto oferece uma base prática
 &nbsp;
 
 ## 3. Diagrama de Classes
-
-&nbsp;
-
-<br />
-
-&nbsp;
 
 Um **Diagrama de Classes** é um modelo visual usado na programação orientada a objetos para representar a estrutura de um sistema. Ele exibe classes, atributos, métodos e os relacionamentos entre elas, como associações, heranças e dependências.
 
@@ -218,17 +190,8 @@ ContaPoupanca --> Conta
 
 ## 4. Tela Inicial do Sistema - Menu
 
-&nbsp;
-
-<br />
-
-&nbsp;
-
 <div align="center">
-
 <img src="https://i.imgur.com/MFK9yXB.png" title="source: imgur.com" width="90%"/>
-
-</div>
 
 &nbsp;
 
@@ -238,15 +201,7 @@ ContaPoupanca --> Conta
 
 ## 5. Requisitos
 
-&nbsp;
-
-<br />
-
-&nbsp;
-
-Para executar os códigos localmente, você precisará de:
-
-&nbsp;
+Para executar os códigos localmente, você precisará de:&nbsp;
 
 \- \[Java JDK 21+](https://www.oracle.com/java/technologies/downloads/#java21)
 
@@ -258,13 +213,9 @@ Para executar os códigos localmente, você precisará de:
 
 &nbsp;
 
-## 6. Como Executar o projeto no Eclipse/STS
+## 6. Como Executar o projeto no Eclipse/STS&nbsp;
 
-&nbsp;
 
-<br />
-
-&nbsp;
 
 ### 6.1. Importando o Projeto
 
@@ -292,17 +243,11 @@ git clone https://https://github.com/Joao-Pedro-Duo/Conta_Bancaria.git
 
 6\. O Eclipse/STS reconhecerá automaticamente o projeto
 
-7\. Marque o Projeto Conta Bancária no item **Projects** e clique no botão **Finish** para concluir a importação
+7\. Marque o Projeto Conta Bancária no item **Projects** e clique no botão **Finish** para concluir a importação&nbsp;
 
-&nbsp;
 
-<br />
 
-&nbsp;
-
-### 6.2. Executando o projeto
-
-&nbsp;
+### 6.2. Executando o projeto&nbsp;
 
 1\. Na guia **Package Explorer**, localize o Projeto Conta Bancária
 
@@ -320,17 +265,9 @@ git clone https://https://github.com/Joao-Pedro-Duo/Conta_Bancaria.git
 
 &nbsp;
 
-## 7. Contribuição
+## 7. Contribuição&nbsp;
 
-&nbsp;
-
-<br />
-
-&nbsp;
-
-Este repositório é parte de um projeto educacional, mas contribuições são sempre bem-vindas! Caso tenha sugestões, correções ou melhorias, fique à vontade para:
-
-&nbsp;
+Este repositório é parte de um projeto educacional, mas contribuições são sempre bem-vindas! Caso tenha sugestões, correções ou melhorias, fique à vontade para:&nbsp;
 
 \- Criar uma **issue**
 
@@ -340,17 +277,9 @@ Este repositório é parte de um projeto educacional, mas contribuições são s
 
 &nbsp;
 
-<br />
 
-&nbsp;
 
-## 8. Contato
-
-&nbsp;
-
-<br />
-
-&nbsp;
+## 8. Contato&nbsp;&nbsp;
 
 Desenvolvido por \[João Pedro](https://github.com/Joao-Pedro-Duo)
 
