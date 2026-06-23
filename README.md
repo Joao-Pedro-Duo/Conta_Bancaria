@@ -1,10 +1,10 @@
-# 	  					<h1 align="center">   Projeto Conta Bancária - Java</h1>
+ 	  					<h1 align="center">   Projeto Conta Bancária - Java</h1>
 
-# 	  				 			<p align="center">![Simbolo bancario Imagens – Download Grátis no Magnific (antes Freepik)](https://img.magnific.com/vetores-premium/icone-do-edificio-do-banco_1301270-12227.jpg?semt=ais_hybrid&w=220&q=70)</p> 
+ 	  				 			<p align="center">![Simbolo bancario Imagens – Download Grátis no Magnific (antes Freepik)](https://img.magnific.com/vetores-premium/icone-do-edificio-do-banco_1301270-12227.jpg?semt=ais_hybrid&w=220&q=70)</p> 
 
 
 
-<p align="center"> <div align="center">
+<div align="center">
 <img src="https://img.shields.io/github/languages/top/Joao-Pedro-Duo/conta\_bancaria?style=flat-square" />
 
 <img src="https://img.shields.io/github/repo-size/Joao-Pedro-Duo/conta\_bancaria?style=flat-square" />
@@ -17,8 +17,9 @@
 
 <img src="https://img.shields.io/github/issues-pr/Joao-Pedro-Duo/conta\_bancaria?style=flat-square" />
 
-<img src="https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen" alt="Status: Concluído"></p>
+<img src="https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen" alt="Status: Concluído" />
 
+</div>
 
 
 
@@ -163,6 +164,7 @@ ContaPoupanca --> Conta
 
 <div align="center">
 <img src="https://i.imgur.com/MFK9yXB.png" title="source: imgur.com" width="90%"/>
+</div>
 
 
 
