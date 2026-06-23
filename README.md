@@ -174,7 +174,9 @@ ContaPoupanca --> Conta
 
 ## 4. Tela Inicial do Sistema - Menu
 
-<img src="C:\Users\znemo\Desktop\conta_workspace\conta_bancaria\assets\banco nacional.png" alt="banco nacional" style="zoom:175%;" />
+<p align="center">
+    <img src="assets/banco_nacional.png" alt="Logo do Projeto" width="650">
+</p>
 
 
 
