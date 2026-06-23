@@ -1,12 +1,10 @@
-# 	  					<center>   Projeto Conta Bancária - Java  
+# 	  					<h1 align="center">   Projeto Conta Bancária - Java</h1>
 
-# 	  				 	<center>		![Simbolo bancario Imagens – Download Grátis no Magnific (antes Freepik)](https://img.magnific.com/vetores-premium/icone-do-edificio-do-banco_1301270-12227.jpg?semt=ais_hybrid&w=220&q=70) 
-
-
+# 	  				 			<p align="center">![Simbolo bancario Imagens – Download Grátis no Magnific (antes Freepik)](https://img.magnific.com/vetores-premium/icone-do-edificio-do-banco_1301270-12227.jpg?semt=ais_hybrid&w=220&q=70)</p> 
 
 
 
-<div align="center">
+<p align="center"> <div align="center">
 <img src="https://img.shields.io/github/languages/top/Joao-Pedro-Duo/conta\_bancaria?style=flat-square" />
 
 <img src="https://img.shields.io/github/repo-size/Joao-Pedro-Duo/conta\_bancaria?style=flat-square" />
@@ -19,9 +17,7 @@
 
 <img src="https://img.shields.io/github/issues-pr/Joao-Pedro-Duo/conta\_bancaria?style=flat-square" />
 
-<img src="https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen" alt="Status: Concluído">
-
-
+<img src="https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen" alt="Status: Concluído"></p>
 
 
 
@@ -30,10 +26,7 @@
 
 
 
-<left>
-
 ## 1. Descrição
-
 
 O **Projeto Conta Bancária** é um sistema de gestão projetado para simular e administrar operações financeiras relacionadas a contas bancárias. Oferece funcionalidades como **cadastro**, **consulta**, **atualização** e **remoção** de contas, além de transações como depósitos, saques e transferências.
 
@@ -57,12 +50,7 @@ Além de servir como um simulador funcional, o projeto oferece uma base prática
 
 
 
-<left>
-
-
 ## 2. Funcionalidades do Projeto
-
-
 
 1\. **Criar Conta:** Cria uma nova conta bancária especificando nome do titular, número da agência, saldo inicial e propriedades específicas conforme o tipo da conta. O número da conta é gerado automaticamente.
 
@@ -84,18 +72,11 @@ Além de servir como um simulador funcional, o projeto oferece uma base prática
 
 
 
-<left>
-
-
 ## 3. Diagrama de Classes
-
-
 
 Um **Diagrama de Classes** é um modelo visual usado na programação orientada a objetos para representar a estrutura de um sistema. Ele exibe classes, atributos, métodos e os relacionamentos entre elas, como associações, heranças e dependências.
 
-
 Esse diagrama ajuda a planejar e entender a arquitetura do sistema, mostrando como os componentes interagem e se conectam. É amplamente utilizado nas fases de design e documentação de projetos.
-
 
 Abaixo, você confere o Diagrama de Classes do Projeto Conta Bancária:****
 
@@ -178,21 +159,14 @@ ContaPoupanca --> Conta
 
 
 
-<left>
-
 ## 4. Tela Inicial do Sistema - Menu
-
-
 
 <div align="center">
 <img src="https://i.imgur.com/MFK9yXB.png" title="source: imgur.com" width="90%"/>
 
 
-<left>
 
 ## 5. Requisitos
-
-
 
 Para executar os códigos localmente, você precisará de:
 
@@ -202,11 +176,7 @@ Para executar os códigos localmente, você precisará de:
 
 
 
-<left>
-
-
 ## 6. Como Executar o projeto no Eclipse/STS
-
 
 
 ### 6.1. Importando o Projeto
@@ -231,11 +201,8 @@ git clone https://https://github.com/Joao-Pedro-Duo/Conta_Bancaria.git
 
 7\. Marque o Projeto Conta Bancária no item **Projects** e clique no botão **Finish** para concluir a importação&nbsp;
 
-<left>
 
 ### 6.2. Executando o projeto&nbsp;
-
-
 
 1\. Na guia **Package Explorer**, localize o Projeto Conta Bancária
 
@@ -249,12 +216,7 @@ git clone https://https://github.com/Joao-Pedro-Duo/Conta_Bancaria.git
 
 
 
-<left>
-
-
 ## 7. Contribuição&nbsp;
-
-
 
 Este repositório é parte de um projeto educacional, mas contribuições são sempre bem-vindas! Caso tenha sugestões, correções ou melhorias, fique à vontade para:
 
@@ -266,11 +228,7 @@ Este repositório é parte de um projeto educacional, mas contribuições são s
 
 
 
-<left>
-
-
 ## 8. Contato
-
 
 Desenvolvido por [João Pedro](https://github.com/Joao-Pedro-Duo)
 
