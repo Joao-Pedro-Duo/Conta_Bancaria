@@ -174,9 +174,8 @@ ContaPoupanca --> Conta
 
 ## 4. Tela Inicial do Sistema - Menu
 
-<div align="center">
 <img src="C:\Users\znemo\Downloads\banco nacional.png" style="zoom: 175%;" />
-</div>
+
 
 
 ## 5. Requisitos
