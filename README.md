@@ -1,6 +1,6 @@
-# 	  					   Projeto Conta Bancária - Java  
+# 	  					<center>   Projeto Conta Bancária - Java  
 
-# 	  				 			![Simbolo bancario Imagens – Download Grátis no Magnific (antes Freepik)](https://img.magnific.com/vetores-premium/icone-do-edificio-do-banco_1301270-12227.jpg?semt=ais_hybrid&w=220&q=70) 
+# 	  				 	<center>		![Simbolo bancario Imagens – Download Grátis no Magnific (antes Freepik)](https://img.magnific.com/vetores-premium/icone-do-edificio-do-banco_1301270-12227.jpg?semt=ais_hybrid&w=220&q=70) 
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-
+<left>
 
 ## 1. Descrição
 
@@ -53,10 +53,11 @@ Este projeto, desenvolvido em **Java**, foca no estudo e aplicação dos conceit
 
 - Interfaces.
 
-
 Além de servir como um simulador funcional, o projeto oferece uma base prática para compreender os princípios fundamentais da POO aplicados a um cenário realista.
 
 
+
+<left>
 
 
 ## 2. Funcionalidades do Projeto
@@ -82,6 +83,8 @@ Além de servir como um simulador funcional, o projeto oferece uma base prática
 9\. **Transferir:** Transfere um valor de uma conta para outra, respeitando os respectivos saldos e limites.
 
 
+
+<left>
 
 
 ## 3. Diagrama de Classes
@@ -175,7 +178,7 @@ ContaPoupanca --> Conta
 
 
 
-
+<left>
 
 ## 4. Tela Inicial do Sistema - Menu
 
@@ -185,7 +188,7 @@ ContaPoupanca --> Conta
 <img src="https://i.imgur.com/MFK9yXB.png" title="source: imgur.com" width="90%"/>
 
 
-&nbsp;
+<left>
 
 ## 5. Requisitos
 
@@ -198,6 +201,8 @@ Para executar os códigos localmente, você precisará de:
 [Eclipse](https://eclipseide.org/) ou [Eclipse STS](https://spring.io/tools)
 
 
+
+<left>
 
 
 ## 6. Como Executar o projeto no Eclipse/STS
@@ -226,7 +231,7 @@ git clone https://https://github.com/Joao-Pedro-Duo/Conta_Bancaria.git
 
 7\. Marque o Projeto Conta Bancária no item **Projects** e clique no botão **Finish** para concluir a importação&nbsp;
 
-
+<left>
 
 ### 6.2. Executando o projeto&nbsp;
 
@@ -244,6 +249,8 @@ git clone https://https://github.com/Joao-Pedro-Duo/Conta_Bancaria.git
 
 
 
+<left>
+
 
 ## 7. Contribuição&nbsp;
 
@@ -258,6 +265,8 @@ Este repositório é parte de um projeto educacional, mas contribuições são s
 \- Compartilhar com colegas que estejam aprendendo Java!
 
 
+
+<left>
 
 
 ## 8. Contato
