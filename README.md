@@ -1,6 +1,6 @@
- 	  					<h1 align="center">   Projeto Conta Bancária - Java</h1>
+# 	  					<h1 align="center">   Projeto Conta Bancária - Java</h1>
 
- 	  				 			<p align="center">![Simbolo bancario Imagens – Download Grátis no Magnific (antes Freepik)](https://img.magnific.com/vetores-premium/icone-do-edificio-do-banco_1301270-12227.jpg?semt=ais_hybrid&w=220&q=70)</p> 
+# 	  				 			<p align="center">![Simbolo bancario Imagens – Download Grátis no Magnific (antes Freepik)](https://img.magnific.com/vetores-premium/icone-do-edificio-do-banco_1301270-12227.jpg?semt=ais_hybrid&w=220&q=70)</p> 
 
 
 
@@ -24,6 +24,7 @@
 
 
 ------
+
 
 
 
@@ -51,6 +52,7 @@ Além de servir como um simulador funcional, o projeto oferece uma base prática
 
 
 
+
 ## 2. Funcionalidades do Projeto
 
 1\. **Criar Conta:** Cria uma nova conta bancária especificando nome do titular, número da agência, saldo inicial e propriedades específicas conforme o tipo da conta. O número da conta é gerado automaticamente.
@@ -70,6 +72,7 @@ Além de servir como um simulador funcional, o projeto oferece uma base prática
 8\. **Depositar:** Adiciona um valor ao saldo de uma conta existente.
 
 9\. **Transferir:** Transfere um valor de uma conta para outra, respeitando os respectivos saldos e limites.
+
 
 
 
@@ -160,11 +163,13 @@ ContaPoupanca --> Conta
 
 
 
+
 ## 4. Tela Inicial do Sistema - Menu
 
 <div align="center">
 <img src="https://i.imgur.com/MFK9yXB.png" title="source: imgur.com" width="90%"/>
 </div>
+
 
 
 
@@ -175,6 +180,7 @@ Para executar os códigos localmente, você precisará de:
 [Java JDK 21+](https://www.oracle.com/java/technologies/downloads/#java21)
 
 [Eclipse](https://eclipseide.org/) ou [Eclipse STS](https://spring.io/tools)
+
 
 
 
@@ -218,6 +224,7 @@ git clone https://https://github.com/Joao-Pedro-Duo/Conta_Bancaria.git
 
 
 
+
 ## 7. Contribuição&nbsp;
 
 Este repositório é parte de um projeto educacional, mas contribuições são sempre bem-vindas! Caso tenha sugestões, correções ou melhorias, fique à vontade para:
@@ -230,9 +237,8 @@ Este repositório é parte de um projeto educacional, mas contribuições são s
 
 
 
+
 ## 8. Contato
 
-Desenvolvido por [João Pedro](https://github.com/Joao-Pedro-Duo)
-
-Para dúvidas, sugestões ou colaborações, entre em contato via GitHub ou abra uma issue!
+Desenvolvido por [João Pedro](https://github.com/Joao-Pedro-Duo) Para dúvidas, sugestões ou colaborações, entre em contato via GitHub ou abra uma issue!
 
