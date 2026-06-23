@@ -1,4 +1,4 @@
-# 	  		Projeto Conta Bancária - Java   				![Simbolo bancario Imagens – Download Grátis no Magnific (antes Freepik)](https://img.magnific.com/vetores-premium/icone-do-edificio-do-banco_1301270-12227.jpg?semt=ais_hybrid&w=220&q=70)     
+# 	  			Projeto Conta Bancária - Java   			![Simbolo bancario Imagens – Download Grátis no Magnific (antes Freepik)](https://img.magnific.com/vetores-premium/icone-do-edificio-do-banco_1301270-12227.jpg?semt=ais_hybrid&w=220&q=70)     
 
 &nbsp;
 
@@ -276,6 +276,7 @@ Este repositório é parte de um projeto educacional, mas contribuições são s
 \- Compartilhar com colegas que estejam aprendendo Java!
 
 &nbsp;
+
 
 
 
