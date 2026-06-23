@@ -1,6 +1,7 @@
-<<<<<<< HEAD
-# 	  				Projeto Conta Bancária - Java   			![Simbolo bancario Imagens – Download Grátis no Magnific (antes Freepik)](https://img.magnific.com/vetores-premium/icone-do-edificio-do-banco_1301270-12227.jpg?semt=ais_hybrid&w=220&q=70)     
-=======
+# 	  					   Projeto Conta Bancária - Java  
+
+# 	  				 			![Simbolo bancario Imagens – Download Grátis no Magnific (antes Freepik)](https://img.magnific.com/vetores-premium/icone-do-edificio-do-banco_1301270-12227.jpg?semt=ais_hybrid&w=220&q=70) 
+
 
 
 
@@ -19,6 +20,8 @@
 <img src="https://img.shields.io/github/issues-pr/Joao-Pedro-Duo/conta\_bancaria?style=flat-square" />
 
 <img src="https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen" alt="Status: Concluído">
+
+
 
 
 
