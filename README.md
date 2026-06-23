@@ -28,6 +28,8 @@
 
 
 
+
+
 ## 1. Descrição
 
 O **Projeto Conta Bancária** é um sistema de gestão projetado para simular e administrar operações financeiras relacionadas a contas bancárias. Oferece funcionalidades como **cadastro**, **consulta**, **atualização** e **remoção** de contas, além de transações como depósitos, saques e transferências.
@@ -53,6 +55,8 @@ Além de servir como um simulador funcional, o projeto oferece uma base prática
 
 
 
+
+
 ## 2. Funcionalidades do Projeto
 
 1\. **Criar Conta:** Cria uma nova conta bancária especificando nome do titular, número da agência, saldo inicial e propriedades específicas conforme o tipo da conta. O número da conta é gerado automaticamente.
@@ -72,6 +76,8 @@ Além de servir como um simulador funcional, o projeto oferece uma base prática
 8\. **Depositar:** Adiciona um valor ao saldo de uma conta existente.
 
 9\. **Transferir:** Transfere um valor de uma conta para outra, respeitando os respectivos saldos e limites.
+
+
 
 
 
@@ -164,6 +170,8 @@ ContaPoupanca --> Conta
 
 
 
+
+
 ## 4. Tela Inicial do Sistema - Menu
 
 <div align="center">
@@ -180,6 +188,8 @@ Para executar os códigos localmente, você precisará de:
 [Java JDK 21+](https://www.oracle.com/java/technologies/downloads/#java21)
 
 [Eclipse](https://eclipseide.org/) ou [Eclipse STS](https://spring.io/tools)
+
+
 
 
 
@@ -225,6 +235,8 @@ git clone https://https://github.com/Joao-Pedro-Duo/Conta_Bancaria.git
 
 
 
+
+
 ## 7. Contribuição&nbsp;
 
 Este repositório é parte de um projeto educacional, mas contribuições são sempre bem-vindas! Caso tenha sugestões, correções ou melhorias, fique à vontade para:
@@ -234,6 +246,8 @@ Este repositório é parte de um projeto educacional, mas contribuições são s
 \- Enviar um **pull request**
 
 \- Compartilhar com colegas que estejam aprendendo Java!
+
+
 
 
 
