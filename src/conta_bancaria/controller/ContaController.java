@@ -63,7 +63,6 @@ public class ContaController implements ContaRepository {
 	}
 	
 	// Método Auxiliar
-	
 	public int gerarNumero() {
 		return ++ numero;
 		
