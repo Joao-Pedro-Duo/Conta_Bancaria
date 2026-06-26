@@ -2,7 +2,7 @@ package conta_bancaria.model;
 
 import conta_bancaria.util.Cores;
 
-public class Conta {
+public abstract class Conta {
 
 	/* Atributos da Classe*/
 	private int numero;
@@ -92,11 +92,11 @@ public class Conta {
 				"*****************************************************");
 		System.out.println("                  DADOS DA CONTA                     ");
 		System.out.println("*****************************************************");
-		System.out.printf("Numero da conta: %d%n", this.numero                    );
-		System.out.printf("Numero da agência: %d%n", this.agencia                 );
-		System.out.printf("Tipo da conta: %s%n", tipo                             );
-		System.out.printf("Nome do titular: %s%n", this.titular                   );
-		System.out.printf("Saldo da conta: %.2f%n", this.saldo                    );
+		System.out.printf("Numero da conta: %d%n", this.numero, "                ");
+		System.out.printf("Numero da agência: %d%n", this.agencia, "             ");
+		System.out.printf("Tipo da conta: %s%n", tipo, "                         ");
+		System.out.printf("Nome do titular: %s%n", this.titular, "               ");
+		System.out.printf("Saldo da conta: %.2f%n", this.saldo, "                ");
 		System.out.println("                                                     " + Cores.TEXT_RESET);
 	}
 		
